@@ -1,4 +1,4 @@
-
+![logo](https://github.com/swaleha1812/swaleha1812/blob/main/Swaleha%20Patel%20(1).png)
 <h1 align="center">Hi 👋, I'm Swaleha Patel</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
