@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Swaleha Patel</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FDevMoonTv%2F9f1647e6262cadc4dff2f34ce202072a&psig=AOvVaw2IabEUm51YCmAshmrDfbdz&ust=1707818305725000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiSvZnFpYQDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://github.com/swaleha1812/swaleha1812/blob/main/gif1.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaleha1812&label=Profile%20views&color=0e75b6&style=flat" alt="swaleha1812" /> </p>
 
